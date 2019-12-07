@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/coin-flipper/static/css/main.6f842b94.chunk.css",
-    "main.js": "/coin-flipper/static/js/main.b48a3507.chunk.js",
-    "main.js.map": "/coin-flipper/static/js/main.b48a3507.chunk.js.map",
-    "runtime~main.js": "/coin-flipper/static/js/runtime~main.556832e0.js",
-    "runtime~main.js.map": "/coin-flipper/static/js/runtime~main.556832e0.js.map",
-    "static/js/2.5af7eab3.chunk.js": "/coin-flipper/static/js/2.5af7eab3.chunk.js",
-    "static/js/2.5af7eab3.chunk.js.map": "/coin-flipper/static/js/2.5af7eab3.chunk.js.map",
-    "index.html": "/coin-flipper/index.html",
-    "precache-manifest.d6d10dc8d84faf5878ce403e81744e7a.js": "/coin-flipper/precache-manifest.d6d10dc8d84faf5878ce403e81744e7a.js",
-    "service-worker.js": "/coin-flipper/service-worker.js",
-    "static/css/main.6f842b94.chunk.css.map": "/coin-flipper/static/css/main.6f842b94.chunk.css.map",
-    "static/media/1-lira-tura.png": "/coin-flipper/static/media/1-lira-tura.7c42669a.png",
-    "static/media/1-lira-yazi.png": "/coin-flipper/static/media/1-lira-yazi.9b70882e.png"
+    "main.css": "/yazi-tura-homework/static/css/main.6f842b94.chunk.css",
+    "main.js": "/yazi-tura-homework/static/js/main.3ba189b1.chunk.js",
+    "main.js.map": "/yazi-tura-homework/static/js/main.3ba189b1.chunk.js.map",
+    "runtime~main.js": "/yazi-tura-homework/static/js/runtime~main.0a62a07d.js",
+    "runtime~main.js.map": "/yazi-tura-homework/static/js/runtime~main.0a62a07d.js.map",
+    "static/js/2.5af7eab3.chunk.js": "/yazi-tura-homework/static/js/2.5af7eab3.chunk.js",
+    "static/js/2.5af7eab3.chunk.js.map": "/yazi-tura-homework/static/js/2.5af7eab3.chunk.js.map",
+    "index.html": "/yazi-tura-homework/index.html",
+    "precache-manifest.2cfad9a941a2453629db2e4a43ab88cc.js": "/yazi-tura-homework/precache-manifest.2cfad9a941a2453629db2e4a43ab88cc.js",
+    "service-worker.js": "/yazi-tura-homework/service-worker.js",
+    "static/css/main.6f842b94.chunk.css.map": "/yazi-tura-homework/static/css/main.6f842b94.chunk.css.map",
+    "static/media/1-lira-tura.png": "/yazi-tura-homework/static/media/1-lira-tura.7c42669a.png",
+    "static/media/1-lira-yazi.png": "/yazi-tura-homework/static/media/1-lira-yazi.9b70882e.png"
   }
 }
